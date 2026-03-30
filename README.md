@@ -1,4 +1,4 @@
-<!-- FONTS -->
+<img width="1440" height="4738" alt="image" src="https://github.com/user-attachments/assets/18d24ddc-b458-4932-98ce-29c3c197e047" /><!-- FONTS -->
 <link href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@400;700;900&family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 
 <!-- HERO -->
